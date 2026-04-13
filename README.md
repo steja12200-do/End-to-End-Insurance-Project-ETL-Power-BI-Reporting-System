@@ -11,5 +11,7 @@ Data used in project
 6.Fact Deduction
 7.Fact premium
 
-Designed partial star and snowflake schema to retrive the data
+Using Lookup,Unicode and non-Unicode,join,merge,conditional split, using sql commands like merge update and delete in execute sql task container ,OLEDB command and has implemented transformations.Using in built logging as SSIS logging option checked the logs and also built seperate self logging as well for intial dumping later used scd slow changing dimension as well as cdc change data capture insrted,updated and deleted the data. 
+
+Designed partial star and snowflake schema to retrive the data.
 
